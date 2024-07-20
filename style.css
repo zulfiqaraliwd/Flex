@@ -1,0 +1,37 @@
+.flex-container{
+    border: 2px solid black;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+        
+    }
+    .box{
+        border: 2px solid blue;
+        height: 100px;
+        width: 200px;    
+    
+    }
+    #box1{
+    
+        background: #1c1aac;
+        
+    }
+    #box2{
+        background: #e61062;
+    }
+    #box3{
+        background: #0f9b16;
+    }
+    #box4{
+        background: #0dc9cf;
+    }
+    #box5{
+        background: #c0168d;
+    }
+    #box6{
+        background: #0ab861;
+    }
